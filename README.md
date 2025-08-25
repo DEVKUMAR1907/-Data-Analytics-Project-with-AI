@@ -25,8 +25,5 @@ This Power BI dashboard analyzes a $13.74M sales dataset (2003–2005), focusing
 - Seasonal peak in February.
 - Some descriptions reduce sales by $2.33K.
 
-## Screenshots
-![Dashboard](screenshots/dashboard.png)
-
 ## Contact
 - Email: devkumar1907@gmail.com
